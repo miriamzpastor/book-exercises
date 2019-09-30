@@ -1,6 +1,5 @@
-# Exercise 1
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
+# ABRAHAM LINCOLN
 
-In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+>In the end, it's not the years in your life that count. It's the life in your years.
 
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+[Quote about life](http://www.wiseoldsayings.com/life-quotes/)
